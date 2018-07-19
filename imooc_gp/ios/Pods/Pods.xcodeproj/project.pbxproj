@@ -1,0 +1,519 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		53E29C450EE32A20EA47A51A051C34DE /* Pods-imooc_gp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BD040A9A5781414859A2A33E38B1C992 /* Pods-imooc_gp-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		008CF3AF4984F8051EBCA97883C28478 /* Pods-imooc_gp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-imooc_gp.debug.xcconfig"; sourceTree = "<group>"; };
+		096408F64E3FF3AAB5039460AB7C9B19 /* UTDID.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UTDID.framework; path = thirdparties/UTDID.framework; sourceTree = "<group>"; };
+		2F3521576FFF3E40B9D77FD8FC0F69B6 /* Pods-imooc_gp-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-imooc_gp-resources.sh"; sourceTree = "<group>"; };
+		391AFFA0FE4500A5F3B80701368F3FE2 /* Pods-imooc_gp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-imooc_gp.release.xcconfig"; sourceTree = "<group>"; };
+		3F5F9A6328E3B33BA0C2D6DB4108A59D /* UMSocialWechatHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = UMSocialWechatHandler.h; path = UMShare/SocialLibraries/WeChat/UMSocialWechatHandler.h; sourceTree = "<group>"; };
+		59520C14B7AEEFBED9D5344B987BEDF4 /* SecurityEnvSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SecurityEnvSDK.framework; path = thirdparties/SecurityEnvSDK.framework; sourceTree = "<group>"; };
+		6C6DDD31EB70BEB128E4E317B13B2648 /* libSocialQQ.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libSocialQQ.a; path = UMShare/SocialLibraries/QQ/libSocialQQ.a; sourceTree = "<group>"; };
+		70F0DD44797CC9014FEB664BECBDC7BB /* UMAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = UMAnalytics.framework; sourceTree = "<group>"; };
+		800A04B6F4382191C971FFC2FF56D051 /* libPods-imooc_gp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-imooc_gp.a"; path = "libPods-imooc_gp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		80D8ED9321C93BC09B6C9F7971334102 /* libSocialSina.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libSocialSina.a; path = UMShare/SocialLibraries/Sina/libSocialSina.a; sourceTree = "<group>"; };
+		900D3994EBD58AFED6D4237FE9C55489 /* UShareUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UShareUI.framework; path = UMShare/UMSocialUI/UShareUI.framework; sourceTree = "<group>"; };
+		902F61FAB463A848BF956E1142BE57FE /* UMCommon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = UMCommon.framework; sourceTree = "<group>"; };
+		9114C1ED3199928B68E4956D46261EFB /* UMSocialQQHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = UMSocialQQHandler.h; path = UMShare/SocialLibraries/QQ/UMSocialQQHandler.h; sourceTree = "<group>"; };
+		924302D8A3B54D2A5D4CD75A1290D931 /* Pods-imooc_gp-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-imooc_gp-frameworks.sh"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9BE7857075EA459CE5F5B296A6973F74 /* UMSocialSinaHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = UMSocialSinaHandler.h; path = UMShare/SocialLibraries/Sina/UMSocialSinaHandler.h; sourceTree = "<group>"; };
+		BD040A9A5781414859A2A33E38B1C992 /* Pods-imooc_gp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-imooc_gp-dummy.m"; sourceTree = "<group>"; };
+		C38F691B91A123426689BCB6F8FC9736 /* UMShare.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UMShare.framework; path = UMShare/UMShare.framework; sourceTree = "<group>"; };
+		CC84A0BBDD4D64EFCCB2D99CB64934EF /* Pods-imooc_gp-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-imooc_gp-acknowledgements.markdown"; sourceTree = "<group>"; };
+		D11B2F638EC8C4F278979B24CC940259 /* libSocialWeChat.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libSocialWeChat.a; path = UMShare/SocialLibraries/WeChat/libSocialWeChat.a; sourceTree = "<group>"; };
+		D41A635A7570A24AA288F9913BDE4482 /* Pods-imooc_gp-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-imooc_gp-acknowledgements.plist"; sourceTree = "<group>"; };
+		DEBF4E9844A2E9DDB756287A4F495610 /* UMSocialSDKResources.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = UMSocialSDKResources.bundle; path = UMShare/UMSocialUI/UMSocialSDKResources.bundle; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0607DCD93108A8EE570FAC07ADD44EE4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		03C808BF4CEF398C0858F50CDFFBC66F /* UMCAnalytics */ = {
+			isa = PBXGroup;
+			children = (
+				45A52B58116BCE254E540C12AA884E26 /* Frameworks */,
+			);
+			name = UMCAnalytics;
+			path = UMCAnalytics;
+			sourceTree = "<group>";
+		};
+		0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		10E33283F4F480B037DDC983F60901ED /* UMCCommon */ = {
+			isa = PBXGroup;
+			children = (
+				D8395270848065F8820095D44A7FAA0F /* Frameworks */,
+			);
+			name = UMCCommon;
+			path = UMCCommon;
+			sourceTree = "<group>";
+		};
+		24C6586485C7CFB8D5BDC49121DF1AB0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				59520C14B7AEEFBED9D5344B987BEDF4 /* SecurityEnvSDK.framework */,
+				096408F64E3FF3AAB5039460AB7C9B19 /* UTDID.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2BD3E64875EFB5B654D030F17900800D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D11B2F638EC8C4F278979B24CC940259 /* libSocialWeChat.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		30BD05D821F7EB00D6411F3B2E3F7E2F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				DEBF4E9844A2E9DDB756287A4F495610 /* UMSocialSDKResources.bundle */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		425EAE125C5B03C332E598DF35632666 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				03C808BF4CEF398C0858F50CDFFBC66F /* UMCAnalytics */,
+				10E33283F4F480B037DDC983F60901ED /* UMCCommon */,
+				C38FD2EEB253B70BD5294BCEA1F35F71 /* UMCSecurityPlugins */,
+				650CB8F73865B3EC2204AE828CBF3766 /* UMCShare */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		45A52B58116BCE254E540C12AA884E26 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				70F0DD44797CC9014FEB664BECBDC7BB /* UMAnalytics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5494241210AC7E76547ECCCCDF695006 /* Social */ = {
+			isa = PBXGroup;
+			children = (
+				CACB5A4F7AAB51C20228887335FF768F /* ReducedQQ */,
+				C83EE96BEB8A975542005A30E2EE6E06 /* ReducedSina */,
+				5FC1708898912BC33C8E1A438E9CD6AE /* ReducedWeChat */,
+			);
+			name = Social;
+			sourceTree = "<group>";
+		};
+		5FC1708898912BC33C8E1A438E9CD6AE /* ReducedWeChat */ = {
+			isa = PBXGroup;
+			children = (
+				3F5F9A6328E3B33BA0C2D6DB4108A59D /* UMSocialWechatHandler.h */,
+				2BD3E64875EFB5B654D030F17900800D /* Frameworks */,
+			);
+			name = ReducedWeChat;
+			sourceTree = "<group>";
+		};
+		650CB8F73865B3EC2204AE828CBF3766 /* UMCShare */ = {
+			isa = PBXGroup;
+			children = (
+				9F09CBC7DA0C93F4E93F5FDB494A9E7D /* Core */,
+				5494241210AC7E76547ECCCCDF695006 /* Social */,
+				6592B69E6869DEAA016627C3814DB445 /* UI */,
+			);
+			name = UMCShare;
+			path = UMCShare;
+			sourceTree = "<group>";
+		};
+		6592B69E6869DEAA016627C3814DB445 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				8815485B5BE5BD8F975DA348CB7A09F0 /* Frameworks */,
+				30BD05D821F7EB00D6411F3B2E3F7E2F /* Resources */,
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
+		6767EE76D2530F0942540E8AA6EBD726 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6C6DDD31EB70BEB128E4E317B13B2648 /* libSocialQQ.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */,
+				425EAE125C5B03C332E598DF35632666 /* Pods */,
+				BA6C6C59BD8BB95526ECCF7098BBCB54 /* Products */,
+				EDAA947576DD149596CD056E3FEC70A6 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		8815485B5BE5BD8F975DA348CB7A09F0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				900D3994EBD58AFED6D4237FE9C55489 /* UShareUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		968308C49792E27F7C80B754668943B6 /* Pods-imooc_gp */ = {
+			isa = PBXGroup;
+			children = (
+				CC84A0BBDD4D64EFCCB2D99CB64934EF /* Pods-imooc_gp-acknowledgements.markdown */,
+				D41A635A7570A24AA288F9913BDE4482 /* Pods-imooc_gp-acknowledgements.plist */,
+				BD040A9A5781414859A2A33E38B1C992 /* Pods-imooc_gp-dummy.m */,
+				924302D8A3B54D2A5D4CD75A1290D931 /* Pods-imooc_gp-frameworks.sh */,
+				2F3521576FFF3E40B9D77FD8FC0F69B6 /* Pods-imooc_gp-resources.sh */,
+				008CF3AF4984F8051EBCA97883C28478 /* Pods-imooc_gp.debug.xcconfig */,
+				391AFFA0FE4500A5F3B80701368F3FE2 /* Pods-imooc_gp.release.xcconfig */,
+			);
+			name = "Pods-imooc_gp";
+			path = "Target Support Files/Pods-imooc_gp";
+			sourceTree = "<group>";
+		};
+		9F09CBC7DA0C93F4E93F5FDB494A9E7D /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				B8C1D50674F22BF04859703DC256E4DC /* Frameworks */,
+			);
+			name = Core;
+			sourceTree = "<group>";
+		};
+		B8C1D50674F22BF04859703DC256E4DC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C38F691B91A123426689BCB6F8FC9736 /* UMShare.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BA6C6C59BD8BB95526ECCF7098BBCB54 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				800A04B6F4382191C971FFC2FF56D051 /* libPods-imooc_gp.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C38FD2EEB253B70BD5294BCEA1F35F71 /* UMCSecurityPlugins */ = {
+			isa = PBXGroup;
+			children = (
+				24C6586485C7CFB8D5BDC49121DF1AB0 /* Frameworks */,
+			);
+			name = UMCSecurityPlugins;
+			path = UMCSecurityPlugins;
+			sourceTree = "<group>";
+		};
+		C83EE96BEB8A975542005A30E2EE6E06 /* ReducedSina */ = {
+			isa = PBXGroup;
+			children = (
+				9BE7857075EA459CE5F5B296A6973F74 /* UMSocialSinaHandler.h */,
+				EBD10EF75B8EFF090CB2693951AA20EE /* Frameworks */,
+			);
+			name = ReducedSina;
+			sourceTree = "<group>";
+		};
+		CACB5A4F7AAB51C20228887335FF768F /* ReducedQQ */ = {
+			isa = PBXGroup;
+			children = (
+				9114C1ED3199928B68E4956D46261EFB /* UMSocialQQHandler.h */,
+				6767EE76D2530F0942540E8AA6EBD726 /* Frameworks */,
+			);
+			name = ReducedQQ;
+			sourceTree = "<group>";
+		};
+		D8395270848065F8820095D44A7FAA0F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				902F61FAB463A848BF956E1142BE57FE /* UMCommon.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EBD10EF75B8EFF090CB2693951AA20EE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				80D8ED9321C93BC09B6C9F7971334102 /* libSocialSina.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EDAA947576DD149596CD056E3FEC70A6 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				968308C49792E27F7C80B754668943B6 /* Pods-imooc_gp */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7F133F9CFB87D94CC8CC4CB3267E2387 /* Pods-imooc_gp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 20B161B8FEF5FD1B66A1E19B00AD6A4A /* Build configuration list for PBXNativeTarget "Pods-imooc_gp" */;
+			buildPhases = (
+				B4558492915153FE7714F9B959C6098A /* Sources */,
+				0607DCD93108A8EE570FAC07ADD44EE4 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-imooc_gp";
+			productName = "Pods-imooc_gp";
+			productReference = 800A04B6F4382191C971FFC2FF56D051 /* libPods-imooc_gp.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = BA6C6C59BD8BB95526ECCF7098BBCB54 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7F133F9CFB87D94CC8CC4CB3267E2387 /* Pods-imooc_gp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B4558492915153FE7714F9B959C6098A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				53E29C450EE32A20EA47A51A051C34DE /* Pods-imooc_gp-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1EE19F5DD95931924296F637BF18BD8F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		6DB2700B95C163C35E1226FFED2DAC73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 391AFFA0FE4500A5F3B80701368F3FE2 /* Pods-imooc_gp.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A4723A25BB32C6FFD2FC012535B0BF02 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 008CF3AF4984F8051EBCA97883C28478 /* Pods-imooc_gp.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F4568DEE257655D290C2B9CEAB37C934 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		20B161B8FEF5FD1B66A1E19B00AD6A4A /* Build configuration list for PBXNativeTarget "Pods-imooc_gp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A4723A25BB32C6FFD2FC012535B0BF02 /* Debug */,
+				6DB2700B95C163C35E1226FFED2DAC73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1EE19F5DD95931924296F637BF18BD8F /* Debug */,
+				F4568DEE257655D290C2B9CEAB37C934 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

@@ -1,0 +1,11 @@
+target 'imooc_gp' do
+pod 'UMCCommon'
+pod 'UMCSecurityPlugins'
+pod 'UMCAnalytics'
+pod 'UMCShare/UI'
+pod 'UMCShare/Social/ReducedWeChat'
+pod 'UMCShare/Social/ReducedQQ'
+pod 'UMCShare/Social/ReducedSina'
+  pod 'react-native-splash-screen', :path => '../node_modules/react-native-splash-screen'
+
+end

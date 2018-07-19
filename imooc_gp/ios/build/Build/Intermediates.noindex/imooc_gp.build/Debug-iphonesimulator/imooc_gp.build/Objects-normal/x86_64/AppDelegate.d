@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/imooc_gp/AppDelegate.m \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/imooc_gp/AppDelegate.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/CodePush/CodePush.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBundleURLProvider.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCCommon/UMCommon.framework/Headers/UMCommon.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCCommon/UMCommon.framework/Headers/UMConfigure.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCAnalytics/UMAnalytics.framework/Headers/MobClick.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMShare.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMSocialHandler.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMSocialPlatformConfig.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMSocialPlatformProvider.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMSocialDataManager.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMSocialImageUtil.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMSocialMessageObject.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMSocialResponse.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMSocialGlobal.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMSocialManager.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMSocialCoreImageUtils.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMSociallogMacros.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMCommonLogMacros.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/Pods/UMCShare/UMShare/UMShare.framework/Headers/UMSocialWarterMarkConfig.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/../node_modules/react-native-splash-screen/ios/SplashScreen.h

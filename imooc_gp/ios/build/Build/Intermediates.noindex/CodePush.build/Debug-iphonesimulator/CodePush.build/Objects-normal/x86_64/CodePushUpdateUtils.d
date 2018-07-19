@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/CodePushUpdateUtils.m \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/CodePush.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/FrameworkSupplement/JWT.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+ResultTypes.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+VersionOne.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+VersionTwo.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Coding/JWTCoding+VersionThree.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Base/JWTAlgorithm.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Supplement/JWTDeprecations.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/JWTRSAlgorithm.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Base/JWTAlgorithmFactory.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Base/JWTAlgorithmNone.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/HSFamily/JWTAlgorithmHSBase.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/JWTAlgorithmRSBase.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Holders/JWTAlgorithmDataHolder.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Supplement/JWTBase64Coder.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/Holders/JWTAlgorithmDataHolderChain.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaimsSet.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaim.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaimsSetSerializer.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/ClaimSet/JWTClaimsSetVerifier.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Supplement/JWTErrorDescription.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKey.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKeyExtractor.h \
+  /Users/bendeng/Documents/android_reactnative/imooc_gp/node_modules/react-native-code-push/ios/CodePush/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity.h

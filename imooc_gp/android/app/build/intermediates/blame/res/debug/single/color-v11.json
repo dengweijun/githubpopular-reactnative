@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.sdk:share-sina-6.9.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/share-sina-6.9.1.aar/db40341c3ce5424985159baebae8c065/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/share-sina-6.9.1.aar/db40341c3ce5424985159baebae8c065/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/share-sina-6.9.1.aar/db40341c3ce5424985159baebae8c065/jars/libs/weiboSDKCore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.sdk/share-sina/6.9.1/fdcea7db3cff238ea101d8790d581fe96b8c872/share-sina-6.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

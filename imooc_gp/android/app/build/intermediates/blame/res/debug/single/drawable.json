@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_back_icon.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-core-6.9.1.aar/ff5016105af8bdf57d11727f8b5d9153/res/drawable/umeng_socialize_back_icon.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_delete.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-core-6.9.1.aar/ff5016105af8bdf57d11727f8b5d9153/res/drawable/umeng_socialize_delete.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qq.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-qq-6.9.1.1.aar/1004a9cdcda4153885f73bc96aa6251e/res/drawable/umeng_socialize_qq.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_edit_bg.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-core-6.9.1.aar/ff5016105af8bdf57d11727f8b5d9153/res/drawable/umeng_socialize_edit_bg.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_share_video.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-core-6.9.1.aar/ff5016105af8bdf57d11727f8b5d9153/res/drawable/umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_copyurl.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-core-6.9.1.aar/ff5016105af8bdf57d11727f8b5d9153/res/drawable/umeng_socialize_copyurl.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wechat.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-wechat-6.9.1.aar/8b0f0097141ab810fa4a12dbf21519ea/res/drawable/umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_share_music.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-core-6.9.1.aar/ff5016105af8bdf57d11727f8b5d9153/res/drawable/umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_wxcircle.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-wechat-6.9.1.aar/8b0f0097141ab810fa4a12dbf21519ea/res/drawable/umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_qzone.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-qq-6.9.1.1.aar/1004a9cdcda4153885f73bc96aa6251e/res/drawable/umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_share_web.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-core-6.9.1.aar/ff5016105af8bdf57d11727f8b5d9153/res/drawable/umeng_socialize_share_web.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_more.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-core-6.9.1.aar/ff5016105af8bdf57d11727f8b5d9153/res/drawable/umeng_socialize_more.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_btn_bg.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-core-6.9.1.aar/ff5016105af8bdf57d11727f8b5d9153/res/drawable/umeng_socialize_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_fav.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-wechat-6.9.1.aar/8b0f0097141ab810fa4a12dbf21519ea/res/drawable/umeng_socialize_fav.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_copy.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-core-6.9.1.aar/ff5016105af8bdf57d11727f8b5d9153/res/drawable/umeng_socialize_copy.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_menu_default.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-core-6.9.1.aar/ff5016105af8bdf57d11727f8b5d9153/res/drawable/umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/umeng_socialize_sina.png",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/share-sina-6.9.1.aar/db40341c3ce5424985159baebae8c065/res/drawable/umeng_socialize_sina.png"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/drawable/abc_item_background_holo_light.xml"
+    }
+]

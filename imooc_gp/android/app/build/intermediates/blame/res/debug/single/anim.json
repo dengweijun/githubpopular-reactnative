@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/f607b88c6c374fd3944a07cae918fa35/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/f607b88c6c374fd3944a07cae918fa35/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/f607b88c6c374fd3944a07cae918fa35/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/f607b88c6c374fd3944a07cae918fa35/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/f607b88c6c374fd3944a07cae918fa35/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c6e6fe09d5db87ac16f6f7b4c530582a/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/bendeng/Documents/android_reactnative/imooc_gp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/bendeng/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/f607b88c6c374fd3944a07cae918fa35/res/anim/catalyst_slide_up.xml"
+    }
+]
