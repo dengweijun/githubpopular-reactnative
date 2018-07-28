@@ -1,1 +1,3 @@
 .js linguist-language=JavaScript
+.o linguist-language=JavaScript
+.c linguist-language=JavaScript
